@@ -1,9 +1,0 @@
-[
-    {
-        "tipo": "Electronico",
-        "nombre": "Play 5",
-        "precio": 2500000.0,
-        "cantidad": 3,
-        "garantia": "30"
-    }
-]
